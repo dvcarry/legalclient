@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/76.0cd5c988.chunk.css","mappings":"AAAA,eACI,sBACA,aACA,YAGJ,UACI","sources":["pages/documentEditing/index.scss"],"sourcesContent":[".template_list {\r\n    background-color: white;\r\n    padding: 50px;\r\n    width: 800px;\r\n}\r\n\r\n.variable {\r\n    color: blue;\r\n}"],"names":[],"sourceRoot":""}
