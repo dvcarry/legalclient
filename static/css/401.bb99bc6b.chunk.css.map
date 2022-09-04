@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/401.bb99bc6b.chunk.css","mappings":"AAAA,UAEI,cACA,kBACA,kBAHA,WAGA","sources":["pages/login/index.scss"],"sourcesContent":[".logindiv {\r\n    width: 400px;\r\n    margin: 0 auto;\r\n    padding-top: 300px;\r\n    text-align: center;\r\n}"],"names":[],"sourceRoot":""}
